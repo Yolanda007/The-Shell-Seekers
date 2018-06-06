@@ -1,8 +1,8 @@
-##《The Shell Seekers》
+## 《The Shell Seekers》
 
-##《海边拾贝人》
+## 《海边拾贝人》
 
-###目录
+### 目录
 
    序言
 
@@ -30,5 +30,5 @@
 
 ---
 
-![1](C:\Users\Administrator\Desktop\1.jpg)
+
 
